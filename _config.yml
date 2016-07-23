@@ -1,14 +1,14 @@
-layout_spectrum: 0.3662062888033688
-typography_spectrum: 0.7813308304175735
+layout_spectrum: 0.4565391924697906
+typography_spectrum: 0.39271423290483654
 color:
-  brandStrength: 0.4138238369487226
-  lightness: 0.35997368511743844
-  saturation: 0.37462974432855844
-  rhythmicContrast: 0.47113876114599407
+  brandStrength: 0.5101273893378675
+  lightness: 0.5099227242171764
+  saturation: 0.9657202670350671
+  rhythmicContrast: 0.9547115466557443
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: 'Vision 2-10, LLC'
